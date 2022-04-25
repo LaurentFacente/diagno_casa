@@ -1913,7 +1913,7 @@ input, select, textarea {
 		padding: 2em;
 		border-width:1px;
 		border-style:solid;
-		border-color:black;
+		border-color:rgb(199, 197, 197);
 		border-radius: 25px;
 	}
 
