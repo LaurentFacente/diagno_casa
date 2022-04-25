@@ -1660,7 +1660,7 @@ input, select, textarea {
 	input[type="reset"],
 	button,
 	.button {
-		
+		margin-top: 10px;
 		position: relative;
 		display: inline-block;
 		text-decoration: none;
@@ -1669,10 +1669,10 @@ input, select, textarea {
 		outline: 0;
 		cursor: pointer;
 		border-radius: 50px;
-		padding: 0.7em 2.35em 0.7em 2.35em;
+		padding: 0.5em 2.35em 0.5em 2.35em;
 		font-size: 1.1em;
-		max-width: 24em;
-		width: 16em;
+		max-width: 16em;
+		width: 14em;
 	}
 
 		input[type="button"]:hover,
