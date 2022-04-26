@@ -1915,6 +1915,7 @@ input, select, textarea {
 		border-style:solid;
 		border-color:rgb(199, 197, 197);
 		border-radius: 25px;
+		
 	}
 
 		.box.style1 {
@@ -1968,6 +1969,7 @@ input, select, textarea {
 
 	i {
 		color: #89d589;
+		font-size: 1.5em;
 	}
 
 	
@@ -2020,11 +2022,7 @@ input, select, textarea {
 				font-size: 6em;
 			}
 
-		.iconphone {
-			font-size: 1em;
-			
-
-		}
+		
 
 /* Wrappers */
 
@@ -2496,10 +2494,10 @@ input, select, textarea {
 		text-decoration: none;
 		color:#252525;
 		font-weight: 700;
-		font-size: 0.7em;
+		font-size: 1em;
 		padding: 0.2em 2em 0.2em 2em;
 		outline: 0;
-		margin-top: 5px;
+		margin-top: 10px;
 
 		
 	}
