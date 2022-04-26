@@ -1968,7 +1968,7 @@ input, select, textarea {
 /* Icons */
 
 	i {
-		color: #89d589;
+		color: #58B258;
 		font-size: 1.5em;
 	}
 
@@ -1977,7 +1977,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-decoration: none;
 		font-size: 1em;
-		color: #89d589;
+		color: #58B258;
 		margin-bottom: 8%;
 		
 	}
@@ -2012,7 +2012,7 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #89d589;
+			color: #58B258;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
