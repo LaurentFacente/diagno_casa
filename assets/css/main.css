@@ -2516,6 +2516,18 @@ input, select, textarea {
 	iframe {
 
 		margin-bottom: -10px;
-	
+	}
+
+	.logoblanc {
+		margin-top: 80px;
+		
+	}
+
+	@media screen and (max-width: 736px) {
+
+		.logofin {
+			
+			width: 30%;
+		}
 
 	}
